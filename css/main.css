@@ -4,3 +4,6 @@ html, body {
 .title {
   font-size: 24px;
 }
+a:hover {
+  font-weight:bold;
+}
