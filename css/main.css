@@ -1,14 +1,19 @@
 html, body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   color:black;
+  background-color: #FAFAFA;
 }
-.title {
-  font-size: 24px;
+p {
+	padding: 10px;
+}
+.site-text {
+	font-size:1.5em !important;
+}
+.poem {
+	font-size: 20px;
 }
 a {
-  text-decoration:none;
-  color:black;
-}
-a:hover {
-  font-weight:bold;
+	text-decoration: none;
+	color: #00a8ff;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
